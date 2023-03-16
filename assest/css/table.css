@@ -1,0 +1,49 @@
+body{
+    background-color:  rgba( 71, 147, 227, 1);
+}
+h1{
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 50px 0;
+}
+.table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    height: 100%;
+    font-weight: normal;
+    border:none;
+    border-collapse: collapse;
+    background-color: white;
+} 
+.headerGreen{
+     background-color:#4FC3A1;
+}
+.headerBlack{
+    background-color:#324960;
+}
+
+td{ 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+thead tr{
+color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
+}
+.row1{
+    background-color: #e6e4e471;
+    
+}
+
+td:hover{
+    
+    background-color: aqua;
+    
+}
+td,tr{
+    width: 90px;
+    height: 30px;
+}

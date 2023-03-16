@@ -1,0 +1,29 @@
+div.margin {
+    background-color: rgb(255, 102, 0);
+    height: 475px;
+    color:rgb(0, 0, 0);
+  }
+  
+.border {
+    background-color: rgb(251, 255, 0);
+    height: 340px;
+  }
+  
+ .padding {
+    background-color: rgb(21, 255, 0);
+   height: 225px;
+  }
+  
+.content {
+    background-color: white;
+    height: 100px;
+  }
+.write {
+ padding-top: 20px;
+  }
+div {
+    width: 85%;
+    height: 100%;
+    margin: 0 auto;
+  }
+
