@@ -47,3 +47,52 @@ td,tr{
     width: 90px;
     height: 30px;
 }
+
+
+
+
+/*2*/
+/* body{
+    background-color:  rgba( 71, 147, 227, 1);
+}
+h1{
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 50px 0;
+}
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    height: 100%;
+    font-weight: normal;
+    border:none;
+    border-collapse: collapse;
+    background-color: white;
+ 
+  }
+table thead tr:nth-child(n){
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.table thead tr th:nth-child(odd){
+    color:white;
+    background:#324960;  
+  }
+.table thead tr th:nth-child(even){
+    color:white;
+    background:#4FC3A1;
+  }
+.table td:nth-child(n){
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.table tbody tr:nth-child(2n-1){
+    background:   #e6e4e471;
+  }
+.table td,tr{
+    width: 90px;
+    height: 30px;
+} */
